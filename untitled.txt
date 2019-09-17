@@ -1,9 +1,0 @@
-Which borough has the highest Airbnb listing in New York City?
-A host listing is a property for rent per day. Manhattan (21661) has 58 times as many host listings as the as the Staten Island (373), which has the least amount of traffic. There are so many people, and there is limited space.
-
-
-
-
-
-What is the average price for an Airbnb in each borough?
-We were able to find the average price of Airbnb in New York. We took that information & found the average price in each borough. We found that Manhattan ($196.87) has the highest price per unit. The Bronx ($87.49) has the lowest price per unit.
